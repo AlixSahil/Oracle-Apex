@@ -64,7 +64,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Hindalco Industries Ltd, Muri Works for providing the opportunity to develop the Inventory Management System.
+- Hindalco Industries Ltd, Muri Works for providing the opportunity to develop these applications.
 
 
 ---
