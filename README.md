@@ -27,6 +27,17 @@ The Inventory Management System for Hindalco Industries Ltd, Muri Works, is a we
 - Reporting and analytics
 - Dashboard for visualizing inventory stats
 
+### Screenshots
+
+
+https://github.com/user-attachments/assets/7246bd87-40e6-4f1a-9700-4d62dae159f6
+
+
+
+https://github.com/user-attachments/assets/084b1093-361a-4836-83c6-5cc1a9072fca
+
+
+
 ### Technologies Used
 
 - HTML
