@@ -29,11 +29,11 @@ The Inventory Management System for Hindalco Industries Ltd, Muri Works, is a we
 
 ### Screenshots
 
-
+#Inventory
 https://github.com/user-attachments/assets/7246bd87-40e6-4f1a-9700-4d62dae159f6
 
 
-
+#Feedback
 https://github.com/user-attachments/assets/084b1093-361a-4836-83c6-5cc1a9072fca
 
 
